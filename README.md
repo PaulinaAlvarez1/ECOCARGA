@@ -13,6 +13,8 @@
 
 3. Map Screen
 
+![Screenshot 2021-01-25 at 6 28 14 PM](https://user-images.githubusercontent.com/69657512/105778814-1847cd00-5f3b-11eb-97c0-90ff827c7241.png)
+
 **Install**
 
 1. Yarn
