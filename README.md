@@ -7,6 +7,10 @@
 ![Screenshot 2021-01-25 at 6 11 45 PM](https://user-images.githubusercontent.com/69657512/105777673-ca31ca00-5f38-11eb-93a7-e989c113b394.png)
 
 2. Home and vehicle screens
+
+![Screenshot 2021-01-25 at 6 24 50 PM](https://user-images.githubusercontent.com/69657512/105778560-9d7eb200-5f3a-11eb-8f32-65a7d925e893.png)
+
+
 3. Map Screen
 
 **Install**
